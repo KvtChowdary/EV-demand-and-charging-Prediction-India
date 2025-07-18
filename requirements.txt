@@ -1,0 +1,10 @@
+fastapi==0.111.0
+uvicorn==0.30.1
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.5.0
+prophet==1.1.5
+matplotlib==3.9.0
+seaborn==0.13.2
+holidays==0.54
+joblib==1.4.2

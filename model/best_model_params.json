@@ -1,0 +1,18 @@
+{
+    "2W": {
+        "status": "Tuning failed, default params",
+        "params": {}
+    },
+    "3W": {
+        "status": "Tuning failed, default params",
+        "params": {}
+    },
+    "4W": {
+        "status": "Tuning failed, default params",
+        "params": {}
+    },
+    "Bus": {
+        "status": "Tuning failed, default params",
+        "params": {}
+    }
+}

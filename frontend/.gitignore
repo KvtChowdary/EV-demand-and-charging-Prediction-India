@@ -1,0 +1,45 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# NEW: Python Specific Folders and Files
+venv/
+__pycache__/
+*.pyc
+*.sqlite3
+.env
+.pytest_cache/
+.ipynb_checkpoints/
+
+# NEW: Project Specific Generated Files (Models, Data, Plots)
+/model/*.pkl
+/data/*.csv
+/data/*.xls
+/data/*.xlsx
+/data/*.zip
+/plots/*.png
+
+# NEW: VS Code Configuration (Optional, but good practice)
+.vscode/
+
+# Operating System Specific Files
+Thumbs.db
